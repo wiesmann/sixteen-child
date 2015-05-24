@@ -7,5 +7,6 @@ This is a child theme that fixes some localisations issues present in the
 * Broken french localisation files.
 
 This child theme fixes these issues for version 1.3.0.6.
+The files are basically patched source from the original theme.
 
 To use, simply install `sixteen-child` directory into the `themes` directory.
